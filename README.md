@@ -14,8 +14,11 @@
 
 <p>Hello there! 
 <br> I'm Naimur Rahman Tanvir. <br>
-A passionate and experienced Web developer dedicated to building stunning and functional web-sites.<br>
-I have a strong background in modern technologies, I excel at creating responsive, interactive, and user-centered interfaces that make a lasting impact.</p>
+A dedicated and creative Wix Website Designer with a passion for building clean, modern, and fully responsive websites. From business sites to online stores, I help brands grow with custom designs that are easy to manage and built to convert. 
+
+I value clear communication, timely delivery, and most importantly, your satisfaction. Whether you need a new site, a redesign, or to rebuild it from scratch, I'm here to make it happen. 
+
+Let’s build something amazing together. Feel free to reach out anytime..</p>
 
 <h2>💻 What I Do:</h2>
 <ul>
