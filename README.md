@@ -4,9 +4,7 @@
 
 </div>
 
-<h1 align="center">- Why not dream bigger? <br>
-- Why not break limits? <br>
-- Why not ME?</h1>
+<h1 align="center"> Beyond limits. Always. <br>
 
 <p>Hello there!
   
