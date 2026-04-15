@@ -4,10 +4,6 @@
 
 </div>
 
-<hr/>
-
-<!--<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Assalamualaikum;This+is+Naimur+Rahman+Tanvir" alt="Typing SVG" /></a></h3> -->
-
 <h1 align="center">- Why not dream bigger? <br>
 - Why not break limits? <br>
 - Why not ME?</h1>
@@ -27,44 +23,16 @@
   <li><strong>Collaboration:</strong> Delivering high-quality solutions through effective teamwork and problem-solving.</li>
 </ul>
 
-<h2>🔧 Technologies I Use:</h2>
+<h2>Passionate About:</h2>
 <ul>
-  <li><strong>Languages:</strong> HTML, CSS, JavaScript, Python, Sql </li>
-  <li><strong>Frameworks/Libraries:</strong> React, Vue.js, Tailwind CSS, Django, Flask</li>
-  <li><strong>Tools:</strong> Git, Webpack, Babel, npm/yarn</li>
-</ul>
-
-<h2>🌟 Passionate About:</h2>
-<ul>
-  <li>Staying up-to-date with the latest web technologies and trends.</li>
-  <li>Creating accessible and inclusive web applications.</li>
+  <li>Staying up-to-date with the latest web technologies.</li>
   <li>Continually improving my skills and knowledge.</li>
 </ul>
 
-<p>🚀 Let's connect! 
-<br>Feel free to reach out if you're interested in collaborating on exciting projects on latest web development.</p>
-<hr/>
+<p>Let's connect! 
+<br>Feel free to reach out if you're interested in collaborating on exciting projects.</p>
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 2px solid #4CAF50; background-color: #e8f5e9; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Github+Stats" alt="Typing SVG" /></a></h2>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtanvircse572&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdtanvircse572&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer Wave">
-
-
-# 🛠️ Additional Skills:
+# Additional Skills:
 - **Programming Languages**: Python, C, C++, Java
 - **Machine Learning**: Knowledge of algorithms and techniques.
 - **Artificial Intelligence**: Familiar with AI concepts.
@@ -73,5 +41,8 @@
 - **Algorithms**: Strong foundation in algorithm design and analysis.
 - **Microsoft Office**: Proficient in Word, Excel, PowerPoint, and more.
 
-# 📫 How to reach me: 
-- Email: mdtanvircse572@gmail.com
+# How to reach me: 
+- Email: mdtanvircse572@gmail.com & tanvirontheway26@gmail.com
+- Whatsapp: +8801315667373
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer Wave">
