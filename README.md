@@ -24,7 +24,7 @@
   <li><strong>Backend:</strong> Developing robust systems using Python, Django, and Flask. </li>
   <li><strong>Databases:</strong> Designing and managing efficient data solutions with MySQL and SQLite. </li>
   <li><strong>Performance:</strong>Optimizing applications for speed, scalability, responsive and seamless user experience. </li>
-  <li><strong>Collaborative Problem Solving:</strong> Delivering high-quality solutions through effective teamwork and problem-solving.</li>
+  <li><strong>Collaboration:</strong> Delivering high-quality solutions through effective teamwork and problem-solving.</li>
 </ul>
 
 <h2>🔧 Technologies I Use:</h2>
