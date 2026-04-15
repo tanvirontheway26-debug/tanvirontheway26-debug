@@ -12,13 +12,13 @@
 - Why not break limits? <br>
 - Why not ME?</h1>
 
-<p>Hello there! 
+<p>Hello there!<br> 
 <br> I'm Naimur Rahman Tanvir. <br>
-A dedicated and creative Wix Website Designer with a passion for building clean, modern, and fully responsive websites. From business sites to online stores, I help brands grow with custom designs that are easy to manage and built to convert. 
+<br>A dedicated and creative Wix Website Designer with a passion for building clean, modern, and fully responsive websites. From business sites to online stores, I help brands grow with custom designs that are easy to manage and built to convert.<br>
 
-I value clear communication, timely delivery, and most importantly, your satisfaction. Whether you need a new site, a redesign, or to rebuild it from scratch, I'm here to make it happen. 
+<br>I value clear communication, timely delivery, and most importantly, your satisfaction. Whether you need a new site, a redesign, or to rebuild it from scratch, I'm here to make it happen.<br>
 
-Let’s build something amazing together. Feel free to reach out anytime..</p>
+<br>Let’s build something amazing together. Feel free to reach out anytime..</p>
 
 <h2>💻 What I Do:</h2>
 <ul>
