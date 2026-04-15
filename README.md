@@ -12,7 +12,7 @@
 - Why not break limits? <br>
 - Why not ME?</h1>
 
-<p>👋 Hi there! 
+<p>Hello there! 
 I'm Naimur Rahman Tanvir.<br>
 A passionate and experienced Web developer dedicated to building stunning and functional web-sites.<br>
 I have a strong background in modern technologies, I excel at creating responsive, interactive, and user-centered interfaces that make a lasting impact.</p>
