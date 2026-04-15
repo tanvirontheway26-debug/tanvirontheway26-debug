@@ -32,7 +32,8 @@
 <p>Let's connect! 
 <br>Feel free to reach out if you're interested in collaborating on exciting projects.</p>
 
-# Additional Skills:
+<!-- 
+#Additional Skills:
 - **Programming Languages**: Python, C, C++, Java
 - **Machine Learning**: Knowledge of algorithms and techniques.
 - **Artificial Intelligence**: Familiar with AI concepts.
@@ -40,6 +41,7 @@
 - **System Analysis**: Skills in analyzing and designing systems.
 - **Algorithms**: Strong foundation in algorithm design and analysis.
 - **Microsoft Office**: Proficient in Word, Excel, PowerPoint, and more.
+-->
 
 # How to reach me: 
 - Email: mdtanvircse572@gmail.com & tanvirontheway26@gmail.com
